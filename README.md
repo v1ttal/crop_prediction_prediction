@@ -1,2 +1,17 @@
-# crop_prediction_prediction
-The project leverages deep learning, particularly Recurrent Neural Networks (RNN), to predict crop yield based on various factors like soil composition and weather conditions. It also provides recommendations on suitable fertilizers and required soil nutrients, offering enhanced accuracy and valuable insights for farmers.
+
+<h1 align="center">Welcome to Crop-Prediction-System</h1><div id="header" align="center">
+  
+  <img src="https://media.giphy.com/media/MBcoOvZdZVURXPedwC/giphy.gif" width="100"/>
+</div>
+
+
+---
+### :woman_technologist: About: 
+- 🍁 Prediction of suitable crop using soil and weather conditions.
+
+- :seedling: Minimize human errors.
+
+- 🧑‍🌾Result in a moment
+---
+### 🖱️: Deployed Here:
+-  https://crop-prediction-rf.herokuapp.com/
